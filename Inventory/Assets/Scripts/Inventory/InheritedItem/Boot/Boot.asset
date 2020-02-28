@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef0b6ba7412cfd48a0808f196045a05, type: 3}
+  m_Name: Boot
+  m_EditorClassIdentifier: 
+  name: Boots
+  sprite: {fileID: 21300000, guid: e420c5bc93cb2604695a893500c897e3, type: 3}
+  itemValue: BUY MORE!
+  valuePrice: 42
+  amount: 422
+  level: 4
+  maxLevel: 20
+  upgradePrice: 42
+  levelUnlock: 4
+  isUnlock: 1
+  priceToUnlock: 272
+  type: 2
+  speedBonus: 42
+  healthBonus: 12
+  damageBonus: 37
+  manaBonus: 432

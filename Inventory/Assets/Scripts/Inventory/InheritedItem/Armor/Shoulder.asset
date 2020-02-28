@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2754fc8df593ff4408dfe8faa3e9b674, type: 3}
+  m_Name: Shoulder
+  m_EditorClassIdentifier: 
+  name: Shoulder
+  sprite: {fileID: 21300000, guid: f126324fd2486a641842ea5a8244c2d1, type: 3}
+  itemValue: BUY MORE!
+  valuePrice: 32
+  amount: 7
+  level: 4
+  maxLevel: 21
+  upgradePrice: 253
+  levelUnlock: 5
+  isUnlock: 0
+  priceToUnlock: 5445
+  type: 1
+  healthBonus: 424
+  poisonResist: 42
+  freezeResist: 752
+  stunResist: 415
+  burnResist: 12
